@@ -57,7 +57,7 @@ function Home() {
                 Get in Touch
               </Link>
               <a
-                href={cv.url}
+                href="/Hanan_Ibrahim.pdf"
                 download="Hanan_Ibrahim_CV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
